@@ -9,3 +9,4 @@
 https://medium.com/chingu/voyage-10-teaser-extra-info-887cfb1b8aee
 https://chingu.gitbook.io/chingu-handbook-voyage-9/cohort-guide/2019-cohort-schedule
 https://discordapp.com/channels/330284646283608064/578610696997044235
+(EN notes @ Chingu) 
