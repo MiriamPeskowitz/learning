@@ -1,4 +1,4 @@
-≈# learning
+# learning
 ### I've decided to keep track here of all the things I'm learning to add onto my Flatiron program
 
 ## June
