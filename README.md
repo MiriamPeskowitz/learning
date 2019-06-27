@@ -12,7 +12,7 @@ https://discordapp.com/channels/330284646283608064/578610696997044235
 
 -learning more about PWA's and using IndexedD. Did this tuto and put it here: https://github.com/MiriamPeskowitz/indexedDBwithDexieTuto
 
--more on css and semantic HTML, feeling like I want to know more advanced topics. Working with <display> and <summary>, <mark> for highlighting, and <time> with the datetime attribute, that doesn't render but is important for search engines. 
+-more on css and semantic HTML, feeling like I want to know more advanced topics. Working with display and summary, mark for highlighting, and time with the datetime attribute, that doesn't render but is important for search engines. 
 
 
 -responsive navbars without using bootstrap and other libraries (also note: using p tag with <a>, because <a> is an inline element, and if you want a horizontal navbar, is a good choice rather than <ul> and <li> and then having to use display: inline-block to change it.) https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
