@@ -15,7 +15,7 @@ https://discordapp.com/channels/330284646283608064/578610696997044235
 -more on css and semantic HTML, feeling like I want to know more advanced topics. Working with display and summary, mark for highlighting, and time with the datetime attribute, that doesn't render but is important for search engines. 
 
 
--responsive navbars without using bootstrap and other libraries (also note: using p tag with <a>, because <a> is an inline element, and if you want a horizontal navbar, is a good choice rather than <ul> and <li> and then having to use display: inline-block to change it.) https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
+-responsive navbars without using bootstrap and other libraries (also note: using p tag with a, because a is an inline element, and if you want a horizontal navbar, is a good choice rather than ul and li and then having to use display: inline-block to change it.) https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
   
 -back to react: working on understanding functional JS, with its pure functions and focus on higher-order functions   https://www.robinwieruch.de/gentle-introduction-higher-order-components/, which also brought me to this article: https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/
 
