@@ -17,7 +17,8 @@ https://discordapp.com/channels/330284646283608064/578610696997044235
 
 -responsive navbars without using bootstrap and other libraries (also note: using p tag with a, because a is an inline element, and if you want a horizontal navbar, is a good choice rather than ul and li and then having to use display: inline-block to change it.) https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
   
--back to react: working on understanding functional JS, with its pure functions and focus on higher-order functions   https://www.robinwieruch.de/gentle-introduction-higher-order-components/, which also brought me to this article: https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/
+-back to react: working on understanding functional JS, with its pure functions and focus on higher-order functions   https://www.robinwieruch.de/gentle-introduction-higher-order-components/, which also brought me to this article: https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/ . Also this, on noticing what level of abstraction you're working at:         https://eloquentjavascript.net/05_higher_order.html
+
 
 -I had wanted to understand the "true &&" the logical && operator, which brought me to this article on conditionals and different ways to use them in React https://www.robinwieruch.de/conditional-rendering-react/. That was part of how I ended up again at higher order functions and enums. 
 
