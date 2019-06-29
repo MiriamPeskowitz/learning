@@ -23,3 +23,5 @@ https://discordapp.com/channels/330284646283608064/578610696997044235
 --I had wanted to understand the "true &&" the logical && operator, which brought me to this article on conditionals and different ways to use them in React https://www.robinwieruch.de/conditional-rendering-react/. That was part of how I ended up again at higher order functions and enums. 
 
 
+--Jekyll! I want to use github to host my personal page and my Code like a girl book webpage. Both are static sites.
+I learned about Jekyll, how to get it started using the command line, that is uses both html/css and markdown language. Ran through it a few times, built and deleted, found some tutorials and figured out how to point DNS/domain to github. 
