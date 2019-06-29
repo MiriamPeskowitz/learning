@@ -2,7 +2,7 @@
 ### Keeping track of all the things I'm researching and learning. Goals: improve at React, feel more familiar with CSS, continue learning more advanced JS concepts. And continue with Ruby/Rails.
 
 ## June
---Flavio Copes -- 20 video series on creating a web app/mobile app, from beginning to deploy: https://www.youtube.com/playlist?list=PLRpq_iSq4KCHOpRymcaj6PMhrX-cLpz6e (EN notes at "Flavio Copes Building an App in 20 parts"). Decided to join the private class, in part to practice deployment and because he's using React Hooks and I want to get used to that. 
+--Flavio Copes -- 20 video series on creating a web app/mobile app, from beginning to deploy: https://www.youtube.com/playlist?list=PLRpq_iSq4KCHOpRymcaj6PMhrX-cLpz6e (EN notes at "Flavio Copes Building an App in 20 parts"). Decided to join the private class, in part to practice deployment and because he's using React Hooks and I want to get used to that. It's really helpful to see someone make decisions, and work through a very complex app with lots of props and extra goodies. 
 
 --Chingu
 https://medium.com/chingu/voyage-10-teaser-extra-info-887cfb1b8aee
@@ -12,8 +12,7 @@ https://discordapp.com/channels/330284646283608064/578610696997044235
 
 --learning more about PWA's and using IndexedD. Did this tuto and put it here: https://github.com/MiriamPeskowitz/indexedDBwithDexieTuto
 
---more on css and semantic HTML, feeling like I want to know more advanced topics. Working with display and summary, mark for highlighting, and time with the datetime attribute, that doesn't render but is important for search engines. 
-
+--more on css and semantic HTML, feeling like I want to know more advanced topics. Working with display and summary, mark for highlighting, and time with the datetime attribute, that doesn't render but is important for search engines
 
 --responsive navbars without using bootstrap and other libraries (also note: experment with using p tag with a, because a is an inline element, and if you want a horizontal navbar, is a good choice rather than ul and li and then having to use display: inline-block to change it.) https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf
   
@@ -25,3 +24,5 @@ https://discordapp.com/channels/330284646283608064/578610696997044235
 
 --Jekyll! I want to use github to host my personal page and my Code like a girl book webpage. Both are static sites.
 I learned about Jekyll, how to get it started using the command line, that is uses both html/css and markdown language. Ran through it a few times, built and deleted, found some tutorials and figured out how to point DNS/domain to github. 
+
+--In preparing to return to my react-redux project, i wanted another review of JS. I want to get to the place where I really understand what is happening behind the scenes, what is returned; I want it to feel familiar. Reading through this which is so very helpful and clear, esp on what promises were supposed to solve (ie, callback hell) and then the problems with promises, and chaining, and why Async/Await are so helpful in solving the problems of promises, even as they are built on the idea. https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/ I plan to continue with this tomorrow. 
