@@ -30,3 +30,6 @@ I learned about Jekyll, how to get it started using the command line, that is us
 
 ## August 
 -- Reading Yarn docs, to really understand dependencies, and the relation between package.json and yarn.lock/other lock files https://yarnpkg.com/en/
+
+-- Rails 6, starting with webpacker: https://github.com/rails/webpacker. See https://medium.com/@adrian_teh/ruby-on-rails-6-with-webpacker-and-bootstrap-step-by-step-guide-41b52ef4081f and https://medium.com/statuscode/introducing-webpacker-7136d66cddfb
+
