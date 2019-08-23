@@ -26,3 +26,7 @@ https://discordapp.com/channels/330284646283608064/578610696997044235
 I learned about Jekyll, how to get it started using the command line, that is uses both html/css and markdown language. Ran through it a few times, built and deleted, found some tutorials and figured out how to point DNS/domain to github. 
 
 --In preparing to return to my react-redux project, i wanted another review of JS. I want to get to the place where I really understand what is happening behind the scenes, what is returned; I want it to feel familiar. Reading through this which is so very helpful and clear, esp on what promises were supposed to solve (ie, callback hell) and then the problems with promises, and chaining, and why Async/Await are so helpful in solving the problems of promises, even as they are built on the idea. https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/ I plan to continue with this tomorrow. 
+
+
+## August 
+-- Reading Yarn docs, to really understand dependencies, and the relation between package.json and yarn.lock/other lock files https://yarnpkg.com/en/
